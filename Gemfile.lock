@@ -90,7 +90,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 4.3)
   minimal-mistakes-jekyll
 
 BUNDLED WITH
